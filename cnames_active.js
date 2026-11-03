@@ -2016,6 +2016,7 @@ var cnames_active = {
   "markvis-editor": "geekplux.github.io/markvis-editor",
   "markxmind": "jinzcdev.github.io/markxmind",
   "mars": "marswong.github.io/blog",
+  "mart": "ingress.bot-hosting.cloud",
   "martin": "martinbutler.github.io", // noCF? (don´t add this in a new PR)
   "martingollogly": "martingollogly.github.io", // noCF? (don´t add this in a new PR)
   "marxist": "wuz.github.io/marxistjs",
